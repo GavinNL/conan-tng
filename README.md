@@ -1,9 +1,9 @@
-# Conan Recipe for xdrfile
+# Conan Recipe for Gromac's TNG IO library
 
 |    | Badge |
 |:--------:|:---------:
 | Recipe License         | [![License: LGPL](https://img.shields.io/badge/License-Bincrafters-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0.html)
-| Source License         | [![License: LGPL](https://img.shields.io/badge/License-BSD-blue.svg)](http://www.gromacs.org/Developer_Zone/Programming_Guide/XTC_Library)
+| Source License         | [![License: LGPL](https://img.shields.io/badge/License-BSD-blue.svg)](https://github.com/gromacs/tng/blob/master/COPYING)
 | Linux Package Status   | [![Build Status](https://travis-ci.org/GavinNL/conan-tng.svg?branch=master)](https://travis-ci.org/GavinNL/conan-tng)|
 
 ## Conan Information
