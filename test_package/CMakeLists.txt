@@ -8,7 +8,7 @@ conan_basic_setup()
 
 #find_package(cci CONFIG REQUIRED)
 
-file(GLOB SOURCE_FILES *.cpp)
+file(GLOB SOURCE_FILES *.c)
 
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
 target_link_libraries(${PROJECT_NAME} ${CONAN_LIBS})
